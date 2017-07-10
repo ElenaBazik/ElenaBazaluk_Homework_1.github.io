@@ -1,0 +1,11 @@
+body{
+	background-image:url( https://static.pexels.com/photos/40797/wild-flowers-flowers-plant-macro-40797.jpeg);
+ ;
+}
+img{
+height:200px;
+}
+img.cat{
+	height:100px;
+}
+
